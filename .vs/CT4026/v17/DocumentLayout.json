@@ -3,19 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\s4401106\\Documents\\GitHub\\CT4026\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0F81DC2A-AB72-AD07-64E6-580D2815016A}|Assembly-CSharp.csproj|c:\\users\\s4401106\\documents\\github\\ct4026\\assets\\scripts\\teleporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F81DC2A-AB72-AD07-64E6-580D2815016A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\teleporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0F81DC2A-AB72-AD07-64E6-580D2815016A}|Assembly-CSharp.csproj|c:\\users\\s4401106\\documents\\github\\ct4026\\assets\\scripts\\nameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F81DC2A-AB72-AD07-64E6-580D2815016A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F81DC2A-AB72-AD07-64E6-580D2815016A}|Assembly-CSharp.csproj|c:\\users\\s4401106\\documents\\github\\ct4026\\assets\\scripts\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F81DC2A-AB72-AD07-64E6-580D2815016A}|Assembly-CSharp.csproj|C:\\Users\\s4401106\\Documents\\GitHub\\CT4026\\assets\\scripts\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F81DC2A-AB72-AD07-64E6-580D2815016A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F81DC2A-AB72-AD07-64E6-580D2815016A}|Assembly-CSharp.csproj|c:\\users\\s4401106\\documents\\github\\ct4026\\assets\\scripts\\debugger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F81DC2A-AB72-AD07-64E6-580D2815016A}|Assembly-CSharp.csproj|C:\\Users\\s4401106\\Documents\\GitHub\\CT4026\\assets\\scripts\\debugger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F81DC2A-AB72-AD07-64E6-580D2815016A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\debugger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F81DC2A-AB72-AD07-64E6-580D2815016A}|Assembly-CSharp.csproj|c:\\users\\s4401106\\documents\\github\\ct4026\\assets\\scripts\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F81DC2A-AB72-AD07-64E6-580D2815016A}|Assembly-CSharp.csproj|C:\\Users\\s4401106\\Documents\\GitHub\\CT4026\\assets\\scripts\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F81DC2A-AB72-AD07-64E6-580D2815016A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Teleporter.cs",
+              "DocumentMoniker": "C:\\Users\\s4401106\\Documents\\GitHub\\CT4026\\Assets\\Scripts\\Teleporter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Teleporter.cs",
+              "ToolTip": "C:\\Users\\s4401106\\Documents\\GitHub\\CT4026\\Assets\\Scripts\\Teleporter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Teleporter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:03:37.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "NameInput.cs",
               "DocumentMoniker": "C:\\Users\\s4401106\\Documents\\GitHub\\CT4026\\Assets\\Scripts\\NameInput.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\NameInput.cs",
@@ -47,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HelloWorld.cs",
               "DocumentMoniker": "C:\\Users\\s4401106\\Documents\\GitHub\\CT4026\\Assets\\Scripts\\HelloWorld.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HelloWorld.cs",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "Assets\\Scripts\\HelloWorld.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T14:11:00.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T14:11:00.086Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Counter.cs",
               "DocumentMoniker": "C:\\Users\\s4401106\\Documents\\GitHub\\CT4026\\Assets\\Scripts\\Counter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Counter.cs",
@@ -68,12 +84,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Counter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T14:10:30.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T14:10:30.626Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SwitchMode.cs",
               "DocumentMoniker": "C:\\Users\\s4401106\\Documents\\GitHub\\CT4026\\Assets\\Scripts\\SwitchMode.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SwitchMode.cs",
@@ -85,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Debugger.cs",
               "DocumentMoniker": "C:\\Users\\s4401106\\Documents\\GitHub\\CT4026\\Assets\\Scripts\\Debugger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Debugger.cs",
@@ -93,8 +108,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Debugger.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T13:41:59.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T13:41:59.68Z"
             }
           ]
         }
